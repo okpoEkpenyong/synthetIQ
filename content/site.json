@@ -1,0 +1,21 @@
+{
+  "siteTitle": "SynthetIQ",
+  "siteTagline": "A Smart System for Rating & Recommending Datasets on Published on the Ocean Marketplace.",
+  "siteUrl": "https://market.oceanprotocol.com",
+  "siteImage": "/share.png",
+  "copyright": "All Rights Reserved. Powered by ",
+  "menu": [
+    {
+      "name": "Publish",
+      "link": "/publish/1"
+    },
+    {
+      "name": "Profile",
+      "link": "/profile"
+    }
+  ],
+  "announcement": "",
+  "warning": {
+    "ctd": "Please note that Compute-to-Data is still in alpha phase."
+  }
+}
