@@ -62,15 +62,15 @@ In this iteration, we do not have a database, but rely on Aquarius, an offline c
 
 ## 7. User Interface
 
-The UI is a simple system of grids that displays the filtered recommended system sent from the Flask backend. In future iterations we intend to improve on the rating system by adding community feedback features and adopting advance AI filtering systems to enhance the recommendation and personalization.
+The UI is a simple system of grids that displays the filtered recommended system sent from the Flask backend. In future iterations we intend to improve on the rating system by adding community feedback features and adopting advance AI filtering systems to enhance the recommendation and personalization. 
 
 # 8. Integration & Benefit of the Innovation
 
-This benefits of attaching a well researched and AI driven rating system to the Marketplace is huge. Many papers have been written on how to improve data quality via metadata metrics. I believe the C2D feature of the OPF will further enhance this rating system as users will be able to use our system to verify the datasets quality in addition to the metadata. SynthetIQ seamlessly integrates Ocean Technology features into its architecture, demonstrating a high level of compatibility and synergy. The project effectively uses Ocean Protocol's core components, including decentralized datatokens, and asset metadata standards, to ensure a cohesive and efficient system
+The benefits of attaching a well researched and AI driven rating system to the Marketplace is huge. Many papers have been written on how to improve data quality via metadata metrics. I believe the C2D feature of the OPF will further enhance this rating system as users will be able to use our system to verify the datasets' quality in addition to the metadata. SynthetIQ seamlessly integrates Ocean Technology features into its architecture, demonstrating a high level of compatibility and synergy. The project effectively uses Ocean Protocol's core components, including decentralized datatokens, and asset metadata standards, to ensure a cohesive and efficient system
 
-# 9. Limitations
+# 9. Limitations and Blockers
 
-Currently the system relies on metadata data solely and is based only on climate datasets.
+Currently the system relies on metadata data solely and is based only on climate datasets. While trying to use the C2D feature and verify asset content thereby boosting the rating system, I had an error which I've shared with the Ocean team here.
 
 ## 8. License
 
